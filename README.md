@@ -85,7 +85,7 @@ In order to use the playbook, you will need to have an Ansible control node alre
 
 SSH into the control node and follow the steps below:
 - Copy the filebeat and metricbeat config files to etc/ansible/roles/ 
--/etc/ansible/hosts is the file you modify under webservers and elk inorder to determine where differnet files are installed
+- /etc/ansible/hosts is the file you modify under webservers and elk inorder to determine where differnet files are installed
 - By going to HTTP://<ELKServer_Public_IP>:5601 after installation you can verfiy everything is working correctly
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
