@@ -74,7 +74,7 @@ The following screenshot displays the result of running `docker ps` after succes
 This ELK server is configured to monitor the following machines:
 - Web-3 : 10.1.0.17
 - Web-5 :10.1.0.18
-We have installed the following Beats on these machines:
+- We have installed the following Beats on these machines:
 - Filebeat
 - Metricbeat
 
